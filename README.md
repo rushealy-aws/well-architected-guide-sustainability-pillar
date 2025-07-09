@@ -619,7 +619,7 @@ The full library of Well Architected Framework guides are available here:
 1. **Cost Optimization** - [Cost Optimization Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-cost-pillar)
 2. **Reliability** - [Reliability Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-reliability-pillar)
 3. **Security** - [Security Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-security-pillar)
-4. **Performance Efficiency** - [Performance Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-performance-pillar)
+4. **Performance Efficiency** - [Performance Efficiency Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-performance-pillar)
 5. **Operational Excellence** - [Operational Excellence Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-operational-excellence-pillar)
 6. **Sustainability** - [Sustainability Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-sustainability-pillar)
 
