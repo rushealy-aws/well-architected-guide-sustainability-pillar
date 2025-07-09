@@ -620,7 +620,7 @@ This completes the creation of comprehensive Well-Architected Review guides for 
 2. **Reliability** - `/Users/rushealy/Documents/well-architected-reliability-review-guide.md`
 3. **Security** - `/Users/rushealy/Documents/well-architected-security-review-guide.md`
 4. **Performance Efficiency** - `/Users/rushealy/Documents/well-architected-performance-review-guide.md`
-5. **Operational Excellence** - `/Users/rushealy/Documents/well-architected-operational-excellence-review-guide.md`
+5. **Operational Excellence** - [Operational Excellence Guide](https://github.com/rushealy-aws/well-architected-guide-operational-excellence-pillar)
 6. **Sustainability** - `/Users/rushealy/Documents/well-architected-sustainability-review-guide.md`
 
 Each guide follows the same comprehensive structure and includes:
