@@ -614,14 +614,14 @@ echo ""
 echo "Carbon footprint analysis completed."
 ```
 
-This completes the creation of comprehensive Well-Architected Review guides for all six pillars:
+The full library of Well Architected Framework guides are available here:
 
-1. **Cost Optimization** - `/Users/rushealy/Documents/well-architected-cost-review-guide.md`
-2. **Reliability** - `/Users/rushealy/Documents/well-architected-reliability-review-guide.md`
-3. **Security** - `/Users/rushealy/Documents/well-architected-security-review-guide.md`
-4. **Performance Efficiency** - `/Users/rushealy/Documents/well-architected-performance-review-guide.md`
-5. **Operational Excellence** - [Operational Excellence Guide](https://github.com/rushealy-aws/well-architected-guide-operational-excellence-pillar)
-6. **Sustainability** - `/Users/rushealy/Documents/well-architected-sustainability-review-guide.md`
+1. **Cost Optimization** - [Cost Optimization Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-cost-pillar)
+2. **Reliability** - [Reliability Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-reliability-pillar)
+3. **Security** - [Security Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-security-pillar)
+4. **Performance Efficiency** - [Performance Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-performance-pillar)
+5. **Operational Excellence** - [Operational Excellence Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-operational-excellence-pillar)
+6. **Sustainability** - [Sustainability Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-sustainability-pillar)
 
 Each guide follows the same comprehensive structure and includes:
 - Detailed pillar-specific content based on official AWS documentation
@@ -630,5 +630,3 @@ Each guide follows the same comprehensive structure and includes:
 - Troubleshooting guides and best practices
 - Implementation roadmaps and continuous improvement processes
 - Extensive resources and references
-
-All guides are now ready for use in conducting thorough Well-Architected reviews across all six pillars of the framework.
